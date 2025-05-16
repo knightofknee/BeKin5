@@ -1,0 +1,51 @@
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# macOS
+.DS_Store
+
+# Environment variables
+.env
+.env.*
+
+# Expo
+.expo/
+.expo-shared/
+
+firebaseConfig.js
+
+# Firebase local emulator
+firebase-debug.log
+.firebaserc
+firebase.json
+
+# VSCode
+.vscode/
+
+# Babel and Metro
+babel.config.js
+metro.config.js
+
+# Jest coverage
+coverage/
+
+# Build outputs
+/dist
+/build
+web-build/
+
+# TypeScript
+*.tsbuildinfo
+
+# iOS/Android artifacts (if ever ejected)
+ios/
+android/
+
+# Misc
+*.log
+*.lock
